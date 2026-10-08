@@ -32,6 +32,7 @@ private val Green = Color(0xFF0B8A5B)
 private val PillBg = Color(0xFFFFF3D6)
 private val PillText = Color(0xFFD9A066)
 
+
 @Composable
 fun OrderPlacedScreen(navController: NavHostController) {
     val order = CartRepository.lastOrder
