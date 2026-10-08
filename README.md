@@ -10,7 +10,7 @@ I took a set of design mockups and a remote JSON API and turned them into a work
 
 | Splash | Home | Item Customizer |
 |:---:|:---:|:---:|
-|![ splash ](https://github.com/ArghaGhosh1/BrewKery/blob/ae59c1c2c9d9e8722d6e9d9dbdd097e93570da88/app/src/main/res/drawable/splashscreen.jpeg) | _add screenshot_ | _add screenshot_ |
+|![ splash ](https://github.com/ArghaGhosh1/BrewKery/blob/ae59c1c2c9d9e8722d6e9d9dbdd097e93570da88/app/src/main/res/drawable/splashscreen.jpeg) | ![home](https://github.com/ArghaGhosh1/BrewKery/blob/f2ad0f86578e790c991295e4c28a66e67d58664d/app/src/main/res/drawable/homescreen.jpeg) | _add screenshot_ |
 
 | Cart | Order Placed | Home (active order) |
 |:---:|:---:|:---:|
