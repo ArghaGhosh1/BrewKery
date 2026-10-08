@@ -14,7 +14,7 @@ I took a set of design mockups and a remote JSON API and turned them into a work
 
 | Cart | Order Placed | Home (active order) |
 |:---:|:---:|:---:|
-| ![cart](https://github.com/ArghaGhosh1/BrewKery/blob/e0de256bbade5cd110bcb1cfa5f918d025350290/app/src/main/res/drawable/cartscreen.jpeg) | ![order placed](https://github.com/ArghaGhosh1/BrewKery/blob/daa8ba0cea2bdb90d86ae213e5fe29f179ca382d/app/src/main/res/drawable/orderplacedscreen.jpeg) | _add screenshot_ |
+| ![cart](https://github.com/ArghaGhosh1/BrewKery/blob/e0de256bbade5cd110bcb1cfa5f918d025350290/app/src/main/res/drawable/cartscreen.jpeg) | ![order placed](https://github.com/ArghaGhosh1/BrewKery/blob/daa8ba0cea2bdb90d86ae213e5fe29f179ca382d/app/src/main/res/drawable/orderplacedscreen.jpeg) | ![active order](https://github.com/ArghaGhosh1/BrewKery/blob/28d40345d14b721973b8e81b10b00b2787970962/app/src/main/res/drawable/homescreenafterorderplaced.jpeg) |
 
 > Put the images in a `/screenshots` folder and link them, for example `![Home](screenshots/home.png)`.
 
