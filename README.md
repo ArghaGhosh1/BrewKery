@@ -117,7 +117,7 @@ com.example.brewkery
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/<your-username>/Brewkery.git
+   https://github.com/ArghaGhosh1/BrewKery.git
    ```
 2. Open it in **Android Studio** and let Gradle sync.
 3. Run on an emulator or device. **An internet connection is required**, because the menu is fetched from GitHub.
