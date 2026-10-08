@@ -10,11 +10,11 @@ I took a set of design mockups and a remote JSON API and turned them into a work
 
 | Splash | Home | Item Customizer |
 |:---:|:---:|:---:|
-|![ image alt ](https://github.com/ArghaGhosh1/BrewKery/blob/f24f0a47f76cc0bd61e29c090bafcff163e257e8/app/src/main/res/drawable/logo.png) | _add screenshot_ | _add screenshot_ |
+|![ splash ](https://github.com/ArghaGhosh1/BrewKery/blob/ae59c1c2c9d9e8722d6e9d9dbdd097e93570da88/app/src/main/res/drawable/splashscreen.jpeg) | ![home](https://github.com/ArghaGhosh1/BrewKery/blob/f2ad0f86578e790c991295e4c28a66e67d58664d/app/src/main/res/drawable/homescreen.jpeg) | ![customizer](https://github.com/ArghaGhosh1/BrewKery/blob/450c8f33266c64504b80bb57809a874bc208e579/app/src/main/res/drawable/detailsscreen.jpeg) |
 
 | Cart | Order Placed | Home (active order) |
 |:---:|:---:|:---:|
-| _add screenshot_ | _add screenshot_ | _add screenshot_ |
+| ![cart](https://github.com/ArghaGhosh1/BrewKery/blob/e0de256bbade5cd110bcb1cfa5f918d025350290/app/src/main/res/drawable/cartscreen.jpeg) | ![order placed](https://github.com/ArghaGhosh1/BrewKery/blob/daa8ba0cea2bdb90d86ae213e5fe29f179ca382d/app/src/main/res/drawable/orderplacedscreen.jpeg) | _add screenshot_ |
 
 > Put the images in a `/screenshots` folder and link them, for example `![Home](screenshots/home.png)`.
 
